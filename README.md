@@ -13,7 +13,7 @@ This repository contains a collection of small C programs that demonstrate vario
 - program.c	Likely contains a standalone program implementing a particular concept.
 - recusions.c	Demonstrates recursive functions (e.g., factorial, Fibonacci, etc.).
 
-#💡 Topics Covered
+# 💡 Topics Covered
 
 - Variables and data types
 
